@@ -1,5 +1,6 @@
-# Ohmingyang.github.io
-Industrial design（2015-now)
+# Mingyang Song
+Industrial design Portfolio（2015-now)
+<br/>
 <br/>
 Project 01_Love Export(2018.5)
 ![image](https://github.com/Ohmingayng/Ohmingyang.github.io/blob/master/1.jpg)
