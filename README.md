@@ -1,5 +1,6 @@
 # Ohmingyang.github.io
 Industrial design（2015-now）
+Project_Love Export(2018.5)
 ![image](https://github.com/Ohmingayng/Ohmingyang.github.io/blob/master/1.jpg)
 ![image](https://github.com/Ohmingayng/Ohmingyang.github.io/blob/master/2.jpg)
 ![image](https://github.com/Ohmingayng/Ohmingyang.github.io/blob/master/3.jpg)
